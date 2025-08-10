@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langchain
+sentence-transformers
+faiss-cpu
+pypdf
+python-multipart
+requests
+ollama-client    # optional if using Ollama (pip package name may vary)
+openai
